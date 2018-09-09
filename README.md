@@ -6,11 +6,12 @@
 **The founder of ros-control tells you everything about ros_control:**  
 **ROSCon-2014 Adolfo Rodríguez Tsouroukdissian: ros_control: An overview** [[video]](https://vimeo.com/107507546), [[slide]](https://roscon.ros.org/2014/wp-content/uploads/2014/07/ros_control_an_overview.pdf)
 
-[ros_control official github](https://github.com/ros-controls)  
+official github: [ros_control](https://github.com/ros-controls)  
 
-[ros_control paper](https://github.com/ros-controls/joss_paper/blob/master/paper.md)
+ros wiki: [ros_control](http://wiki.ros.org/ros_control?distro=melodic)
 
-[ros_control ros wiki](http://wiki.ros.org/ros_control?distro=melodic)
+paper: [ros_control](https://github.com/ros-controls/joss_paper/blob/master/paper.md)
+
 
 [gazebo ros_control](https://github.com/ros-controls/ros_control/wiki) gives the best explanation about 
   * how to write urdf for ros_control(transmission, gazebo_ros_control plugin)
