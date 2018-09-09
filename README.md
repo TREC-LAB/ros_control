@@ -9,8 +9,7 @@
 **official github:** [https://github.com/ros-controls](https://github.com/ros-controls)  
 
 **ros wiki:** [http://wiki.ros.org/ros_control](http://wiki.ros.org/ros_control?distro=melodic)  
-  
-  combined_robot_hw | combined_robot_hw_tests | controller_interface | controller_manager | controller_manager_msgs | controller_manager_tests | hardware_interface | joint_limits_interface | realtime_tools | transmission_interface 
+| combined_robot_hw | combined_robot_hw_tests | controller_interface | controller_manager | controller_manager_msgs | controller_manager_tests | hardware_interface | joint_limits_interface | realtime_tools | transmission_interface 
 
 **paper:** [S. Chitta, E. Marder-Eppstein, W. Meeussen, V. Pradeep, A. Rodríguez Tsouroukdissian, J. Bohren, D. Coleman, B. Magyar, G. Raiola, M. Lüdtke and E. Fernandez Perdomo "ros_control: A generic and simple control framework for ROS", The Journal of Open Source Software, 2017](https://github.com/ros-controls/joss_paper/blob/master/paper.md)
 
