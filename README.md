@@ -18,7 +18,7 @@
 
 ---
 
-[**gazebo ros_control**](https://github.com/ros-controls/ros_control/wiki) gives the best explanation about 
+[**gazebo ros_control**](http://gazebosim.org/tutorials/?tut=ros_control) gives the best explanation about 
   * how to write urdf for ros_control(transmission, gazebo_ros_control plugin)
       - For transmission, you should also see this [ros wiki](http://wiki.ros.org/urdf/XML/Transmission)
   * how to create a ros_controls package(.yaml for controller, roslaunch file to load controller)
