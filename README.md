@@ -13,12 +13,12 @@
 
 **paper:** [S. Chitta, E. Marder-Eppstein, W. Meeussen, V. Pradeep, A. Rodríguez Tsouroukdissian, J. Bohren, D. Coleman, B. Magyar, G. Raiola, M. Lüdtke and E. Fernandez Perdomo "ros_control: A generic and simple control framework for ROS", The Journal of Open Source Software, 2017](https://github.com/ros-controls/joss_paper/blob/master/paper.md)
 
-[gazebo ros_control](https://github.com/ros-controls/ros_control/wiki) gives the best explanation about 
+[**gazebo ros_control**](https://github.com/ros-controls/ros_control/wiki) gives the best explanation about 
   * how to write urdf for ros_control(transmission, gazebo_ros_control plugin)
       - For transmission, you should also see this [ros wiki](http://wiki.ros.org/urdf/XML/Transmission)
   * how to create a ros_controls package(.yaml for controller, roslaunch file to load controller)
 
-[ros_control github wiki](https://github.com/ros-controls/ros_control/wiki)  shows you how to do the following things in c++
+[**ros_control github wiki**](https://github.com/ros-controls/ros_control/wiki)  shows you how to do the following things in c++
   * write a new Controller
   * set up a new Robot
   * set up a transmissions interface
