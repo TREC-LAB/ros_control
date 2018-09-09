@@ -1,4 +1,4 @@
-![ros_control logo](https://avatars1.githubusercontent.com/u/4827547?s=200&v=4)  
+![ros_control logo](https://avatars1.githubusercontent.com/u/4827547?s=200&v=4 =250x)  
 
 **ros_control**
 ---
