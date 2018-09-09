@@ -13,7 +13,7 @@ ros wiki: [ros_control](http://wiki.ros.org/ros_control?distro=melodic)
 paper: [ros_control](https://github.com/ros-controls/joss_paper/blob/master/paper.md)
 
 
-[gazebo ros_control](https://github.com/ros-controls/ros_control/wiki) gives the best explanation about 
+**[gazebo ros_control]**(https://github.com/ros-controls/ros_control/wiki) gives the best explanation about 
   * how to write urdf for ros_control(transmission, gazebo_ros_control plugin)
       - For transmission, you should also see this [ros wiki](http://wiki.ros.org/urdf/XML/Transmission)
   * how to create a ros_controls package(.yaml for controller, roslaunch file to load controller)
