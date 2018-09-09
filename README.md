@@ -1,7 +1,7 @@
 # ros_control
 
 ![ros_control logo](https://avatars1.githubusercontent.com/u/4827547?s=200&v=4)
-
+---
 
 **The founder of ros-control tells you everything about ros_control:**  
 **ROSCon-2014 Adolfo Rodríguez Tsouroukdissian: ros_control: An overview**  
