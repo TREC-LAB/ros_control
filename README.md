@@ -5,6 +5,7 @@
 
 **The founder of ros_control tells you everything about ros_control:**  
 **ROSCon-2014 Adolfo Rodríguez Tsouroukdissian: ros_control: An overview** [[video]](https://vimeo.com/107507546), [[slide]](https://roscon.ros.org/2014/wp-content/uploads/2014/07/ros_control_an_overview.pdf)
+---
 
 **official github:** [https://github.com/ros-controls](https://github.com/ros-controls)  
 
@@ -12,6 +13,7 @@
 | combined_robot_hw | combined_robot_hw_tests | controller_interface | controller_manager | controller_manager_msgs | controller_manager_tests | hardware_interface | joint_limits_interface | realtime_tools | transmission_interface 
 
 **paper:** [S. Chitta, E. Marder-Eppstein, W. Meeussen, V. Pradeep, A. Rodríguez Tsouroukdissian, J. Bohren, D. Coleman, B. Magyar, G. Raiola, M. Lüdtke and E. Fernandez Perdomo "ros_control: A generic and simple control framework for ROS", The Journal of Open Source Software, 2017](https://github.com/ros-controls/joss_paper/blob/master/paper.md)
+---
 
 [**gazebo ros_control**](https://github.com/ros-controls/ros_control/wiki) gives the best explanation about 
   * how to write urdf for ros_control(transmission, gazebo_ros_control plugin)
