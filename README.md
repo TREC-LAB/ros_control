@@ -28,4 +28,12 @@
   * set up a new Robot
   * set up a transmissions interface
   * set up a joint limits interface
-  
+---
+
+## Following are some pictures that may help you understand what ros_control really is.
+
+![ros_control_integrated.png](https://github.com/qkx515/ros_control/blob/master/imgs/ros_control_integrated.png)
+
+![ros_control_paper.png](https://github.com/qkx515/ros_control/blob/master/imgs/ros_control_paper.png)
+
+![ros_control_gazebo.png](https://github.com/qkx515/ros_control/blob/master/imgs/ros_control_gazebo.png)
